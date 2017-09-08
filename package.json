@@ -1,0 +1,14 @@
+{
+  "name": "alarm-clock",
+  "version": "1.0.0",
+  "description": "this is a web app to create an alarm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grantone",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
